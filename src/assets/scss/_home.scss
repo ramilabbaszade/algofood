@@ -1,0 +1,37 @@
+.home{
+    // background: $grayLight;
+    padding: 1rem 5rem;
+
+    &__grid{
+        height: 100%;
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        gap: .5rem;
+
+        .card{
+            min-height: 11rem;
+            background: $white;
+            border-radius: 1rem;
+            border: 1px solid $grayMedium;
+            padding: 1rem;
+
+            &__unit-number{
+                font-size: 5rem;
+            }
+
+            &__green{
+                color: $green;
+                border: 1px solid $green;
+            }
+            &__blue{
+                background: $green;
+                color: white;
+                cursor: pointer;
+
+                &:hover{
+                    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+                }
+            }
+        }
+    }
+}

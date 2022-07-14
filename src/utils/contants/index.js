@@ -1,0 +1,1 @@
+export const API_URL = "http://localhost:5500" //:TODO must be in .env file

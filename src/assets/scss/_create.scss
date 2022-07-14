@@ -1,0 +1,12 @@
+.create-drawer{
+ 
+    &__product-inputs{
+        &__counts{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            align-items: center;
+            gap: 1rem;
+            margin: .5rem 0;
+        }
+    }
+}

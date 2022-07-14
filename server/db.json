@@ -1,0 +1,247 @@
+{
+  "orders": [
+    {
+      "id": "4c2660a0-02f5-11ed-b06e-339fcede05ce",
+      "details": [
+        {
+          "id": 2,
+          "name": "Lahmacun",
+          "price": 3,
+          "count": 4,
+          "totalPrice": 12
+        },
+        {
+          "id": 1,
+          "name": "Toyuq Lavas",
+          "price": 5,
+          "count": 2,
+          "totalPrice": 10
+        }
+      ],
+      "tableNum": "zaza",
+      "status": "done",
+      "worker": "Tom Cruse",
+      "created_at": "2022-07-13T21:46:48.619Z",
+      "finished_at": "2022-07-13T23:52:32.841Z"
+    },
+    {
+      "id": "7b96bfb0-02fa-11ed-a1b3-7d49a4ff6e5f",
+      "details": [
+        {
+          "id": 2,
+          "name": "Lahmacun",
+          "price": 3,
+          "count": 2,
+          "totalPrice": 6
+        },
+        {
+          "id": 1,
+          "name": "Toyuq Lavas",
+          "price": 5,
+          "count": 4,
+          "totalPrice": 20
+        }
+      ],
+      "tableNum": "cs",
+      "status": "canceled",
+      "worker": "Zlatan Ibrahimovic",
+      "created_at": "2022-07-13T22:23:55.691Z",
+      "sumPrice": 26,
+      "finished_at": "2022-07-13T23:52:35.480Z"
+    },
+    {
+      "id": "4cdb8630-02fd-11ed-a389-277f3413a629",
+      "details": [],
+      "tableNum": "xa1",
+      "status": "inprogress",
+      "worker": "Tom Cruse",
+      "created_at": "2022-07-13T22:44:05.779Z",
+      "sumPrice": 0
+    },
+    {
+      "id": "93edd721-02fe-11ed-b24d-1de633ed9946",
+      "details": [
+        {
+          "id": 2,
+          "name": "Lahmacun",
+          "price": 3,
+          "pId": "89efdb60-02fe-11ed-b24d-1de633ed9946",
+          "count": 2,
+          "totalPrice": 6
+        },
+        {
+          "id": 1,
+          "name": "Toyuq Lavas",
+          "price": 5,
+          "pId": "8c2977b1-02fe-11ed-b24d-1de633ed9946",
+          "count": 2,
+          "totalPrice": 10
+        }
+      ],
+      "tableNum": "f1",
+      "status": "inprogress",
+      "worker": "Tom Cruse",
+      "created_at": "2022-07-13T22:52:46.388Z",
+      "sumPrice": 16
+    },
+    {
+      "id": "ff2f2401-0306-11ed-b0d5-e77f05b16d80",
+      "details": [
+        {
+          "id": 3,
+          "name": "Tantuni",
+          "price": 4,
+          "pId": "e51eee11-0306-11ed-b0d5-e77f05b16d80",
+          "count": 2,
+          "totalPrice": 8
+        },
+        {
+          "id": 4,
+          "name": "Pizza Peperoni",
+          "price": 8,
+          "pId": "e835cb01-0306-11ed-b0d5-e77f05b16d80",
+          "count": 3,
+          "totalPrice": 24
+        },
+        {
+          "id": 4,
+          "name": "Pizza Peperoni",
+          "price": 8,
+          "pId": "f4833501-0306-11ed-b0d5-e77f05b16d80",
+          "count": 4,
+          "totalPrice": 32
+        }
+      ],
+      "tableNum": "d1",
+      "status": "inprogress",
+      "worker": "Polat Alemdar",
+      "created_at": "2022-07-13T23:52:14.192Z",
+      "sumPrice": 64
+    },
+    {
+      "id": "3226e701-030a-11ed-bc1e-a9d14de98794",
+      "details": [
+        {
+          "id": 2,
+          "name": "Lahmacun",
+          "price": 3,
+          "pId": "2ffa6a10-030a-11ed-bc1e-a9d14de98794",
+          "count": 2,
+          "totalPrice": 6
+        }
+      ],
+      "tableNum": "f1",
+      "status": "inprogress",
+      "worker": "Tom Cruse",
+      "created_at": "2022-07-14T00:16:13.195Z",
+      "sumPrice": 6
+    },
+    {
+      "id": "9826cf71-030a-11ed-85ce-63eb6d37474d",
+      "details": [
+        {
+          "id": 2,
+          "name": "Lahmacun",
+          "price": 3,
+          "pId": "93772a10-030a-11ed-85ce-63eb6d37474d",
+          "count": 2,
+          "totalPrice": 6
+        },
+        {
+          "id": 3,
+          "name": "Tantuni",
+          "price": 4,
+          "pId": "95c70d80-030a-11ed-85ce-63eb6d37474d",
+          "count": 3,
+          "totalPrice": 12
+        }
+      ],
+      "tableNum": "f12",
+      "status": "inprogress",
+      "worker": "Scarlett Johanson",
+      "created_at": "2022-07-14T00:19:02.836Z",
+      "sumPrice": 18
+    },
+    {
+      "id": "ac9e3880-030a-11ed-ad5b-23877f9fce16",
+      "details": [
+        {
+          "id": 4,
+          "name": "Pizza Peperoni",
+          "price": 8,
+          "pId": "a9be2300-030a-11ed-ad5b-23877f9fce16",
+          "count": 4,
+          "totalPrice": 32
+        }
+      ],
+      "tableNum": "e1",
+      "status": "inprogress",
+      "worker": "Vladimir Putin",
+      "created_at": "2022-07-14T00:19:38.372Z",
+      "sumPrice": 32
+    },
+    {
+      "id": "c191d671-030a-11ed-b547-3128d385c629",
+      "details": [
+        {
+          "id": 3,
+          "name": "Tantuni",
+          "price": 4,
+          "pId": "bfac2681-030a-11ed-b547-3128d385c629",
+          "count": 2,
+          "totalPrice": 8
+        }
+      ],
+      "tableNum": "s2",
+      "status": "done",
+      "worker": "Polat Alemdar",
+      "created_at": "2022-07-14T00:20:14.798Z",
+      "sumPrice": 8,
+      "finished_at": "2022-07-14T00:20:44.519Z"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Toyuq Lavas",
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Lahmacun",
+      "price": 3
+    },
+    {
+      "id": 3,
+      "name": "Tantuni",
+      "price": 4
+    },
+    {
+      "id": 4,
+      "name": "Pizza Peperoni",
+      "price": 8
+    }
+  ],
+  "workers": [
+    {
+      "id": 1,
+      "fullName": "Scarlett Johanson"
+    },
+    {
+      "id": 2,
+      "fullName": "Tom Cruse"
+    },
+    {
+      "id": 3,
+      "fullName": "Zlatan Ibrahimovic"
+    },
+    {
+      "id": 4,
+      "fullName": "Polat Alemdar"
+    },
+    {
+      "id": 5,
+      "fullName": "Vladimir Putin"
+    }
+  ]
+}
